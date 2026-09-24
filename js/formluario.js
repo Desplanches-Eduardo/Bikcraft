@@ -8,7 +8,7 @@ function formularioEnviado(resposta){
   }
 }
 function enviarFormulario(event) {
-  event.preventDefaut();
+  event.preventDefault();
   const btn = document.querySelector("form .btn");
   btn.disabled = true; 
   btn.innerHTML ="enviando..."
