@@ -4,6 +4,8 @@ Site de bicicletas elétricas: home, lista de bicicletas com uma página para ca
 (Nimbus, Magic e Nebula), seguros, orçamento, contato e termos de uso. HTML, CSS e JavaScript
 puro, sem framework e sem backend.
 
+Fiz no curso de HTML e CSS da Origamid, seguindo o projeto que o curso propõe.
+
 ## Como rodar
 
 Abra o `index.html` no navegador. Sem instalação e sem servidor.
